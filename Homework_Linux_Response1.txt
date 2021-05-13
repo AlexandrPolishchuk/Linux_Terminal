@@ -1,3 +1,9 @@
+Задание:
+
+Отправить http запрос на сервер.
+https://api.quarantine.country/api/v1/regions
+
+
 $ curl https://api.quarantine.country/api/v1/regions
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
